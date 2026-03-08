@@ -99,6 +99,12 @@ Possible enhancements:
 
 ---
 
+## Credits
+
+- App icon made by Freepik from Flaticon
+
+---
+
 ## License
 
 This project is open source and available under the **MIT License**.
