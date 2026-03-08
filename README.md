@@ -21,8 +21,8 @@ The app focuses on **clean UI, smooth user experience, and offline functionality
 
 - **Framework:** Flutter
 - **Language:** Dart
-- **Local Storage:** SQLite / SharedPreferences
-- **Charts:** Flutter chart libraries
+- **Local Storage:** SharedPreferences flutter library
+- **Charts:** Flutter fl_chart library for clean and friendly charts
 
 ---
 
@@ -91,12 +91,11 @@ This project was built to:
 
 Possible enhancements:
 
-- Expense categories
 - Budget limits
-- Dark mode
 - Monthly analytics
 - Export expense data
 - Cloud sync and backup
+- Clean animations for a smoother user experience
 
 ---
 
